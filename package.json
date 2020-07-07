@@ -1,0 +1,20 @@
+{
+  "name": "http-mongodb",
+  "version": "1.0.0",
+  "description": "MongoDB HTTP Interface / Driver",
+  "main": "src/index.js",
+  "keywords": [
+    "mongodb",
+    "http",
+    "rest",
+    "mongo",
+    "database"
+  ],
+  "author": "rubybb",
+  "license": "GNU-AGPLv2",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fclone": "^1.0.11",
+    "mongodb": "^3.5.9"
+  }
+}
