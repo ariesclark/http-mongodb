@@ -13,7 +13,7 @@
   "author": "rubybb",
   "license": "GNU-AGPLv2",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "fclone": "^1.0.11",
     "mongodb": "^3.5.9"
   }
